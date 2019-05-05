@@ -1,4 +1,3 @@
-// exercise 14 week 3 jumat
 function mengelompokkanAngka(arr) {
   let result = [];
   let genap = [];
